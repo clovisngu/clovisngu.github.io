@@ -1,0 +1,54 @@
+body
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(55, 55, 55);
+    background-color: rgb(240, 240, 240);
+}
+
+.container {
+    width: 700px;
+    margin: 16px auto; /* centers the layout */
+}
+
+.logo{
+    font-size: 60px;
+    font-weight: bold;
+    letter-spacing: 6px;
+}
+
+nav li {
+    display: inline;
+}
+
+nav ul {
+    padding-left: 0;
+}
+
+nav a {
+    color: rgb(55, 55, 55);
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
+
+nav a:hover {
+    color: orange;
+    text-decoration: underline;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+
+footer {
+    background-color: rgb(55, 55, 55);
+    color: rgb(240, 240, 240);
+    font-size: 12px;
+    padding-top: 16px;
+    padding-left: 26px;
+    padding-bottom: 16px;
+    /*we could also use, padding: top right bottom left;*/
+    padding: 16px 24px 16px 24px;
+}

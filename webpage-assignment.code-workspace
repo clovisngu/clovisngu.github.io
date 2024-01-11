@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../temp/GitHub/webpage-assignment"
+		},
+		{
+			"path": "images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "webpage-assignment"
+	}
+}
